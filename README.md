@@ -19,12 +19,12 @@ Hi, I'm **Sanjana** 👋<br><br>I'm a passionate software developer and AI enthu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 Some Project live demo :
-https://ats-phi-ruddy.vercel.app/
 
-https://booksage-ai-new.vercel.app/
+[🌐](https://ats-phi-ruddy.vercel.app/) ATS Resume Analyzer
 
+[📚](https://booksage-ai-new.vercel.app/) BookSage AI
 
-https://weather-app-seven-tau-50.vercel.app/
+[🌦️](https://weather-app-seven-tau-50.vercel.app/) Weather App
 ---
 
 
