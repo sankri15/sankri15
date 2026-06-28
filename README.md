@@ -20,11 +20,9 @@ Hi, I'm **Sanjana** 👋<br><br>I'm a passionate software developer and AI enthu
 
 Some Project live demo :
 
-[🌐](https://ats-phi-ruddy.vercel.app/) ATS Resume Analyzer
-
-[📚](https://booksage-ai-new.vercel.app/) BookSage AI
-
-[🌦️](https://weather-app-seven-tau-50.vercel.app/) Weather App
+- 📄 ATS Resume Analyzer
+- 📚 BookSage AI
+- 🌤️ Weather App
 ---
 
 
