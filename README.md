@@ -1,11 +1,8 @@
-<h1 style="
-font-family:'Great Vibes', cursive;
-font-size:70px;
-animation: zoom 2s infinite;
-background:linear-gradient(...);
-">
-Sanjana Pal
-</h1>
+<h1 align="center">Hi 👋, I'm Sanjana Pal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Web+Developer;Building+Intelligent+Applications" alt="Typing SVG" />
+</p>
 
 <p align="center">
 💻 Full-Stack Development • 🤖 AI/ML • 🌐 Web Development • 🚀 Problem Solving
@@ -40,7 +37,7 @@ Some Project live demo :
 
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sanjanaPal) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sanjanapalm) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
