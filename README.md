@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Sanjana Pal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Web+Developer;Building+Intelligent+Applications" alt="Typing SVG" />
+</p>
+
+<p align="center">
+💻 Full-Stack Development • 🤖 AI/ML • 🌐 Web Development • 🚀 Problem Solving
+</p>
+
 # 💫 About Me:
 Hi, I'm **Sanjana** 👋<br><br>I'm a passionate software developer and AI enthusiast who enjoys building impactful projects using modern technologies. I love exploring AI, full-stack development, and problem-solving through competitive programming. I'm constantly learning, experimenting with new tools, and turning ideas into real-world applications.<br>
 
