@@ -1,8 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Sanjana%20Pal%20👋&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
-  
+  <!-- Animated Gradient Header using a widely used public Dev GIF -->
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" width="100%" />
+
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Web+Developer;Building+Intelligent+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=65&duration=4000&pause=500&color=F75590;00F5FF;A855F7&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Sanjana+Pal+👋;Welcome+to+my+Creative+Space!;Full-Stack+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
+  </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Intelligent+Software;Building+Modern+Web+Applications;Exploring+Machine+Learning+%26+AI" alt="Typing SVG" />
   </p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjpal)
@@ -14,11 +19,14 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Software Developer and AI Enthusiast** who enjoys building impactful projects using modern technologies. 
+<img align="right" width="300" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
 
-- 🚀 Exploring AI, full-stack development, and problem-solving through competitive programming.
-- 🧠 Constantly learning, experimenting with new tools, and expanding my skill set.
-- 💡 Turning ideas into real-world applications.
+I'm a passionate **Software Developer and AI Enthusiast** who enjoys building impactful projects using modern technologies. I love bringing ideas to life through elegant code and intelligent architecture.
+
+- 🚀 **Currently Focusing On:** Advanced AI algorithms, full-stack Next.js applications, and problem-solving through competitive programming.
+- 🧠 **Learning:** Deep Dive into Machine Learning models and highly scalable cloud architectures.
+- 💬 **Ask me about:** JavaScript, Python, UI/UX Design, and building AI tools!
+- ⚡ **Fun fact:** I love experimenting with new dev tools and optimizing code for absolute maximum performance.
 
 <br />
 
@@ -44,6 +52,19 @@ I'm a passionate **Software Developer and AI Enthusiast** who enjoys building im
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
   <img src="https://github-profile-trophy.vercel.app/?username=sankri15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="48%" />
+</div>
+
+<div align="center">
+  <!-- Animated Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankri15&theme=tokyonight&hide_border=true&area=true" width="98%" />
+</div>
+
+<br />
+
+## 🔥 Current Focus & Activity
+
+<div align="center">
+  <img align="center" src="https://github-readme-recent-activity.vercel.app/api?username=sankri15&theme=tokyonight" width="98%" />
 </div>
 
 <br />
