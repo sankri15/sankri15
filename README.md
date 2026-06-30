@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" width="100%" />
 
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2e1065,1e1b4b,050505&height=100&text=Hi%20there,%20I'm%20Sanjana%20Pal&fontSize=45&fontColor=ffffff" alt="Name Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2e1065,1e1b4b,050505&height=100&text=Hi%20there,%20I'm%20Sanjana%20Pal&fontSize=45&fontColor=ffffff" alt="Name Banner" />
   </p>
 
   <p align="center">
