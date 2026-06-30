@@ -16,6 +16,8 @@
 </div>
 
 <br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br />
 
 ## 👩‍💻 About Me
 
@@ -33,6 +35,8 @@ const sanjanaPal = {
 };
 ```
 
+<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br />
 
 ## 🛠️ Tech Stack & Tools
@@ -63,6 +67,8 @@ const sanjanaPal = {
 </div>
 
 <br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br />
 
 ## 📊 GitHub Analytics
 
@@ -89,6 +95,23 @@ const sanjanaPal = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankri15&theme=tokyonight&hide_border=true" width="98%" />
 </div>
 
+<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br />
+
+## 💡 Dev Philosophy
+
+> *"First, solve the problem. Then, write the code."*  
+> — **John Johnson**
+
+> *"Clean code is not written by following a set of rules. It's written by someone who cares."*  
+> — **Robert C. Martin**
+
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*  
+> — **Harold Abelson**
+
+<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br />
 
 ## 🚀 Featured Projects
