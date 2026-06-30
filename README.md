@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" width="100%" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=65&duration=4000&pause=500&color=F75590;00F5FF;A855F7&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Sanjana+Pal+👋;Welcome+to+my+Creative+Space!;Full-Stack+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=65&duration=4000&pause=500&color=F75590&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Sanjana+Pal+👋;Welcome+to+my+Creative+Space!;Full-Stack+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -45,26 +45,18 @@ I'm a passionate **Software Developer and AI Enthusiast** who enjoys building im
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankri15&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
   <img src="https://github-profile-trophy.vercel.app/?username=sankri15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="48%" />
 </div>
 
 <div align="center">
   <!-- Animated Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankri15&theme=tokyonight&hide_border=true&area=true" width="98%" />
-</div>
-
-<br />
-
-## 🔥 Current Focus & Activity
-
-<div align="center">
-  <img align="center" src="https://github-readme-recent-activity.vercel.app/api?username=sankri15&theme=tokyonight" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankri15&theme=tokyonight&hide_border=true" width="98%" />
 </div>
 
 <br />
