@@ -19,7 +19,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
+<img align="right" width="300" src="cute_coder_girl.png" />
 
 I'm a passionate **Software Developer and AI Enthusiast** who enjoys building impactful projects using modern technologies. I love bringing ideas to life through elegant code and intelligent architecture.
 
