@@ -73,26 +73,26 @@ const sanjanaPal = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="70%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sankri15&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="70%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankri15&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankri15&theme=radical&hide_border=true" width="70%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="70%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankri15&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="70%" />
 </div>
 
 <br />
 
 <div align="center">
   <!-- Animated Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankri15&theme=tokyonight&hide_border=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankri15&theme=radical&hide_border=true" width="98%" />
 </div>
 
 <br />
@@ -101,14 +101,18 @@ const sanjanaPal = {
 
 ## 💡 Dev Philosophy
 
-> *"First, solve the problem. Then, write the code."*  
-> — **John Johnson**
-
-> *"Clean code is not written by following a set of rules. It's written by someone who cares."*  
-> — **Robert C. Martin**
-
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*  
-> — **Harold Abelson**
+<div align="center">
+  <br />
+  <h3><i>"First, solve the problem. Then, write the code."</i></h3>
+  <p>— <b>John Johnson</b></p>
+  <br />
+  <h3><i>"Clean code is not written by following a set of rules. It's written by someone who cares."</i></h3>
+  <p>— <b>Robert C. Martin</b></p>
+  <br />
+  <h3><i>"Programs must be written for people to read, and only incidentally for machines to execute."</i></h3>
+  <p>— <b>Harold Abelson</b></p>
+  <br />
+</div>
 
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
