@@ -67,13 +67,22 @@ const sanjanaPal = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankri15&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="70%" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankri15&theme=tokyonight&hide_border=true" width="70%" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="70%" />
+</div>
+
+<br />
 
 <div align="center">
   <!-- Animated Activity Graph -->
