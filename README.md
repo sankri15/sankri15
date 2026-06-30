@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" width="100%" />
 
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A192F,1E3A8A,3B82F6&height=250&section=header&text=Sanjana%20Pal&fontSize=75&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descSize=25&descAlignY=82&descAlign=50" alt="Name Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A192F,1E3A8A,3B82F6&height=200&section=header&text=Sanjana%20Pal&fontSize=75&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descSize=25&descAlignY=85&descAlign=50" alt="Name Banner" />
   </p>
 
   <p align="center">
@@ -73,26 +73,26 @@ const sanjanaPal = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="70%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sankri15&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&icon_color=a855f7&border_color=1e3a8a&hide_border=false&include_all_commits=true&count_private=true" width="70%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankri15&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankri15&background=0f172a&ring=3b82f6&fire=a855f7&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=3b82f6&sideLabels=e2e8f0&dates=e2e8f0&border=1e3a8a&hide_border=false" width="70%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="70%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankri15&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&border_color=1e3a8a&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="70%" />
 </div>
 
 <br />
 
 <div align="center">
   <!-- Animated Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankri15&theme=tokyonight&hide_border=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankri15&bg_color=0f172a&color=3b82f6&line=a855f7&point=e2e8f0&hide_border=false" width="98%" />
 </div>
 
 <br />
