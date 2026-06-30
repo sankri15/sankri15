@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" width="100%" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=65&duration=4000&pause=500&color=F75590&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Sanjana+Pal;Welcome+to+my+Creative+Space;Full-Stack+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=50&duration=4000&pause=500&color=F75590&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Sanjana+Pal;Welcome+to+my+Creative+Space;Full-Stack+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -68,7 +68,6 @@ I'm a passionate **Software Developer and AI Enthusiast** who enjoys building im
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=sankri15&repo=codenova-ai&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
@@ -80,9 +79,20 @@ I'm a passionate **Software Developer and AI Enthusiast** who enjoys building im
 
 ## 🚀 Live Projects
 
-- 📄 **[ATS Resume Analyzer](https://github.com/sankri15/ATS-Resume-Analyzer)**
-- 📚 **[BookSage AI](https://github.com/sankri15/BookSage-AI)**
-- 🧠 **[CodeNova AI](https://github.com/sankri15/codenova-ai)** — AI-powered GitHub codebase intelligence
+<div align="center">
+  <a href="https://github.com/sankri15/codenova-ai">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=sankri15&repo=codenova-ai&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/sankri15/ATS-Resume-Analyzer">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=sankri15&repo=ATS-Resume-Analyzer&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/sankri15/BookSage-AI">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=sankri15&repo=BookSage-AI&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</div>
 
 <br />
 
