@@ -25,25 +25,11 @@ I'm a passionate **Software Developer and AI Enthusiast** who enjoys building im
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,python,js,ts" /><br><b>Languages</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,django,express,fastapi,flutter" /><br><b>Web & Mobile</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,firebase" /><br><b>Backend & DB</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv" /><br><b>AI & Data</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,postman,vite" /><br><b>Tools & Cloud</b>
-      </td>
-    </tr>
-  </table>
+  <h3>💻 Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,python,js,ts,react,nextjs,tailwind,css,django,express,fastapi,flutter,nodejs&perline=8" />
+  <br /><br />
+  <h3>🛠️ AI, Data & Infrastructure</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,pytorch,tensorflow,scikitlearn,opencv,aws,azure,docker,git,github,postman,vite&perline=7" />
 </div>
 
 <br />
@@ -64,8 +50,8 @@ I'm a passionate **Software Developer and AI Enthusiast** who enjoys building im
 
 ## 🚀 Live Projects
 
-- 📄 **ATS Resume Analyzer**
-- 📚 **BookSage AI**
+- 📄 **[ATS Resume Analyzer](https://github.com/sankri15/ATS-Resume-Analyzer)**
+- 📚 **[BookSage AI](https://github.com/sankri15/BookSage-AI)**
 - 🧠 **[CodeNova AI](https://github.com/sankri15/codenova-ai)** — AI-powered GitHub codebase intelligence
 
 <br />
