@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" width="100%" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=65&duration=4000&pause=500&color=F75590&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Sanjana+Pal+👋;Welcome+to+my+Creative+Space!;Full-Stack+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=65&duration=4000&pause=500&color=F75590&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Sanjana+Pal;Welcome+to+my+Creative+Space;Full-Stack+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -33,11 +33,28 @@ I'm a passionate **Software Developer and AI Enthusiast** who enjoys building im
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <h3>💻 Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,python,js,ts,react,nextjs,tailwind,css,django,express,fastapi,flutter,nodejs&perline=8" />
+  <h3>💻 Core Languages</h3>
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,js,ts&perline=8" />
+  
   <br /><br />
-  <h3>🛠️ AI, Data & Infrastructure</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,pytorch,tensorflow,scikitlearn,opencv,aws,azure,docker,git,github,postman,vite&perline=7" />
+  
+  <h3>🌐 Frontend & UI</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,flutter,vite&perline=8" />
+  
+  <br /><br />
+  
+  <h3>⚙️ Backend & Databases</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mysql,firebase&perline=8" />
+  
+  <br /><br />
+  
+  <h3>🧠 AI & Machine Learning</h3>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&perline=8" />
+
+  <br /><br />
+
+  <h3>☁️ Tools & Cloud Infrastructure</h3>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,postman&perline=8" />
 </div>
 
 <br />
@@ -51,7 +68,7 @@ I'm a passionate **Software Developer and AI Enthusiast** who enjoys building im
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankri15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sankri15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=sankri15&repo=codenova-ai&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
