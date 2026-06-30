@@ -127,7 +127,6 @@ const sanjanaPal = {
   <br /><br />
   <p><b>An AI-powered GitHub codebase intelligence assistant</b></p>
   <a href="https://github.com/sankri15/codenova-ai"><img src="https://img.shields.io/badge/📂%20GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://codenova-ai-topaz.vercel.app"><img src="https://img.shields.io/badge/🌐%20Live%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
 <br /><br />
