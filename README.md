@@ -129,7 +129,7 @@ const sanjanaPal = {
 <br /><br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=064e3b&height=70&text=📄%20ATS%20Resume%20Analyzer&fontSize=30&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=064e3b&height=70&text=📄%20CareerMate&fontSize=30&fontSize=30&fontColor=ffffff" width="100%"/>
   <br /><br />
   <p><b>Intelligent resume parsing and optimization engine</b></p>
   <a href="https://github.com/sankri15/CareerMate.git"><img src="https://img.shields.io/badge/📂%20GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
