@@ -85,7 +85,7 @@ const sanjanaPal = {
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankri15&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&border_color=1e3a8a&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="70%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sankri15&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&border_color=1e3a8a&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=500" width="80%" />
 </div>
 
 <br />
