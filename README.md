@@ -79,7 +79,11 @@ const sanjanaPal = {
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankri15&background=0f172a&ring=3b82f6&fire=a855f7&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=3b82f6&sideLabels=e2e8f0&dates=e2e8f0&border=1e3a8a&hide_border=false" width="70%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/streak.svg?v=1">
+    <img alt="GitHub Streak" src="./profile/streak.svg?v=1" width="70%">
+  </picture>
 </div>
 
 <br />
