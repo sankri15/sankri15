@@ -79,7 +79,7 @@ const sanjanaPal = {
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?background=0f172a&user=sankri15&ring=3b82f6&fire=a855f7&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=3b82f6&sideLabels=e2e8f0&dates=e2e8f0&border=1e3a8a&hide_border=false" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankri15&background=0f172a&ring=3b82f6&fire=a855f7&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=3b82f6&sideLabels=e2e8f0&dates=e2e8f0&border=1e3a8a&hide_border=false" width="70%" />
 </div>
 
 <br />
